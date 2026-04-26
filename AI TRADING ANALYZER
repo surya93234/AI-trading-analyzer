@@ -1,0 +1,18 @@
+ai-trading-analyzer/
+├── App.tsx
+├── package.json
+├── tsconfig.json
+├── app.json
+├── types/
+│   └── index.ts
+├── lib/
+│   ├── theme.ts
+│   └── tradingData.ts
+├── components/
+│   ├── Chart.tsx
+│   └── SignalCard.tsx
+└── screens/├── HomeScreen.tsx
+    ├── PremiumScreen.tsx
+    ├── SettingsScreen.tsx
+    ├── AboutScreen.tsx
+    └── ContactScreen.tsx
